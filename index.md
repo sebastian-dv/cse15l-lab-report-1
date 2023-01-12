@@ -1,7 +1,7 @@
 # CSE 15L Tutorial
 
 > How to install VSCode
-- Go to [Link](https://code.visualstudio.com/) to download and install VSCode
+- Go to [this link](https://code.visualstudio.com/) to download and install VSCode
 - Open VSCode, it should look like this: 
 
 ![Screenshot 2023-01-12 at 11 32 15 AM](https://user-images.githubusercontent.com/23327980/212163388-8ce6a102-2229-4172-b264-fb3d793f82dc.jpg)
