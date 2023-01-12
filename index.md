@@ -4,7 +4,7 @@
 - Go to [Link](https://code.visualstudio.com/) to download and install VSCode
 - Open VSCode, it should look like this: 
 
-![image info](/Users/sebastian/Desktop/Screenshot 2023-01-12 at 10.23.44 AM.jpg)
+![alt text](/Users/sebastian/Desktop/Screenshot 2023-01-12 at 10.23.44 AM.jpg)
 
 > Remotely Connecting
 - Once you reset the password for your CSE 15L account, open the terminal in VSCode
