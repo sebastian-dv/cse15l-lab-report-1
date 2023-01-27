@@ -24,5 +24,9 @@ ls -a
 cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
 cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 ```
+- cd: stands for choose directory, allows you to move between your current directory
+- ls: stands for list and will show a list of all the contents of your current directory
+- cp: used to copy files
+- cat: shows the contents of one or more files without having to open them
 
 ![Screenshot 2023-01-12 at 11 24 53 AM](https://user-images.githubusercontent.com/23327980/212162992-0272eb44-63bd-4de5-b0b1-2610727bb549.jpg)
